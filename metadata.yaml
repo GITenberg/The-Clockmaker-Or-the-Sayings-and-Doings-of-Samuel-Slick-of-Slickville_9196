@@ -1,4 +1,8 @@
 _repo: The-Clockmaker-Or-the-Sayings-and-Doings-of-Samuel-Slick-of-Slickville_9196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haliburton, Thomas Chandler
@@ -16,6 +20,8 @@ description: Sam Slick of Slickville, Connecticut, is a Yankee clock-peddler who
   established Judge Thomas Chandler Haliburton as a satirical humorist of international
   stature. The New Canadian Library edition is an unabridged reprint of the complete
   original text. From the Paperback edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9196#The-Clockmaker-Or-the-Sayings-and-Doings-of-Samuel-Slick-of-Slickville
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
